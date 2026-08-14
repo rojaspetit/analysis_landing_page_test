@@ -175,7 +175,7 @@ The notebook is configured to load the dataset directly from the repository.
 4. No manual dataset upload is required.
 5. The analysis and visualizations are generated from the repository data.
 
-[Open in Google Colab](https://colab.research.google.com/github/rojaspetit/analysis_landing_page_test/blob/main/analysis_landing_page_test.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rojaspetit/analysis_landing_page_test/blob/main/analysis_landing_page_test.ipynb)
 
 ---
 
