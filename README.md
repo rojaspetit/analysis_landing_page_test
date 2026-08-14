@@ -169,13 +169,13 @@ analysis_landing_page_test/
 
 The notebook is configured to load the dataset directly from the repository.
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rojaspetit/analysis_landing_page_test/blob/main/analysis_landing_page_test.ipynb)
+
 1. Open the notebook in Google Colab.
 2. Run all cells from beginning to end.
 3. The notebook clones the GitHub repository and loads `data/landing_experiment.csv`.
 4. No manual dataset upload is required.
 5. The analysis and visualizations are generated from the repository data.
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rojaspetit/analysis_landing_page_test/blob/main/analysis_landing_page_test.ipynb)
 
 ---
 
